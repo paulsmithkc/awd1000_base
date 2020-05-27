@@ -7,6 +7,9 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+.jpg~
+.png~
+.gif~
 
 #Ignore temporary Office files
 ~$*
@@ -36,3 +39,6 @@ Thumbs.db
 *.sbr
 *.tmp
 *.tmp_proj
+
+# npm
+node_modules/
