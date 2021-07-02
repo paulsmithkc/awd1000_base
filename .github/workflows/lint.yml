@@ -25,6 +25,7 @@ jobs:
         with:
           eslint: true
           stylelint: true
+          stylelint_args: --allow-empty-input
           prettier: false
           prettier_extensions: htm,html,css,js
 
