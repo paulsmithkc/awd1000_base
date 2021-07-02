@@ -1,3 +1,5 @@
+/* eslint-disable strict */
+
 const express = require('express');
 
 // create server
