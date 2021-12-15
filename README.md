@@ -1,6 +1,6 @@
 # Template repo for AWD1000 projects
 
-Put all your code inside the public folder
+Put all your code inside the `public` folder
 
 Install dependencies with the command:
 `npm install`
