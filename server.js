@@ -6,7 +6,7 @@ const express = require('express');
 const app = express();
 
 // routes
-app.use('/', express.static('src', { index: 'index.html' }));
+app.use('/', express.static('public', { index: 'index.html' }));
 
 // start server
 const port = process.env.PORT || 3000;
