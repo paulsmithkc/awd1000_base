@@ -6,4 +6,4 @@ Install dependencies with the command:
 `npm install`
 
 Start the server with the command:
-`npm run nodemon`
+`npm run start-dev`
